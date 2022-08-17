@@ -25,6 +25,8 @@
   <img align="center" alt="Daniel-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
  
 </div>
+
+
   
 ##
   
@@ -40,3 +42,5 @@
 ![Snake animation](https://github.com/abraodaniel/abraodaniel/blob/output/github-contribution-grid-snake.svg)
  
 </div>
+  
+![giphy](https://user-images.githubusercontent.com/101731254/185218186-c333a797-a8a4-4253-bcec-8dec2310d816.gif)
