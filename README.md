@@ -8,11 +8,10 @@
 ##
 
 ### 📈 Check my stats!
-
 <div align="center">
   <a href="https://github.com/abraodaniel">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=abraodaniel&show_icons=true&theme=midnight-purple&include_all_commits=false&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abraodaniel&layout=compact&langs_count=7&theme=midnight-purple"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=abraodaniel&show_icons=true&theme=midnight-purple&include_all_commits=false&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=abraodaniel&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div>
   
 ##
