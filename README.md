@@ -1,6 +1,6 @@
 ## Hi! I'm Daniel Abrão! 😉
 
--👨‍💻 Junior Developer at Tiflux
+-👨‍💻 Developer at Tiflux
 
 -📚 Currently, I'm studying Systems Analysis and Development at UDESC
 
@@ -26,6 +26,8 @@
   <img align="center" alt="Daniel-REACT" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
   <img align="center" alt="Daniel-Ruby" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg">
   <img align="center" alt="Daniel-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
+  <img align="center" alt="Daniel-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
+  <img align="center" alt="Daniel-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg">
 </div>
 
 
