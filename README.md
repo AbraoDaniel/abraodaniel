@@ -1,6 +1,6 @@
 ## Hi! I'm Daniel Abrão! 😉
 
--👨‍💻 Developer at PX.Center
+-👨‍💻 Software Engineer at PX.Center
 
 -📚 Currently, I'm studying Systems Analysis and Development at UDESC
 
